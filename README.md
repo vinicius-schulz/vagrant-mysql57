@@ -13,6 +13,9 @@ Versão: 0.0.1
 
 Descrição da VM utilizada: CentOS 7.3.1611 com Mysql5.7
 
+Para mais detalhes sobre a box, acesse: 
+`https://app.vagrantup.com/anhdht/boxes/mysql`
+
 ### Passos
 1. Clone o repositório: https://github.com/vinicius-schulz/vagrant-mysql57.git
 2. Navegue até o diretório
