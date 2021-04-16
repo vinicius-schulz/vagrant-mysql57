@@ -7,13 +7,12 @@ Subir uma máquina virtual, usando Vagrant, com MySQL instalado e que esteja ace
 
 #### Box Utilizada
 
-Nome: anhdht/mysql
-
-Versão: 0.0.1
-
-Descrição da VM utilizada: CentOS 7.3.1611 com Mysql5.7
+**Nome:** anhdht/mysql
+**Versão:** 0.0.1
+**Descrição da VM utilizada:** CentOS 7.3.1611 com Mysql5.7
 
 Para mais detalhes sobre a box, acesse: 
+
 `https://app.vagrantup.com/anhdht/boxes/mysql`
 
 ### Passos
