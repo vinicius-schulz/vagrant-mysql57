@@ -30,7 +30,7 @@
 
  `F&Bb7_T!$RNkgMKn`
 
-7. Execute os comandos a seguir para criar um banco de dados e uma tabela
+7. Execute os comandos a seguir para criar um banco de dados, uma tabela, inserir dado e visualizar o mesmo
 
 ```sql
 CREATE DATABASE dbvagrant;
