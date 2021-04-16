@@ -32,6 +32,7 @@
 
 7. Execute os comandos a seguir para criar um banco de dados e uma tabela
 
+```sql
 CREATE DATABASE dbvagrant;
 USE dbvagrant;
 CREATE TABLE Exercicio (
@@ -45,3 +46,4 @@ CREATE TABLE Exercicio (
 INSERT INTO Exercicio(descricao,dataEntrega,nomeProfessor) VALUES ('Exercicio 1', STR_TO_DATE('21-04-2021', '%d-%m-%Y'), "Joao Henrique Victorino da Silva");
 
 SELECT * FROM Exercicio;
+```
